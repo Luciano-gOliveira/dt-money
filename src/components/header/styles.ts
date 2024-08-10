@@ -19,7 +19,7 @@ export const Content = styled.div`
         border-radius: 0.25rem;
         background: var(--blue-light);
         color: #FFF;
-        transition: 0.2s;
+        transition: 0.3s;
 
         &:hover{
             filter: brightness(0.9);
