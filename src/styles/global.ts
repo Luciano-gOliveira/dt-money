@@ -42,4 +42,4 @@ export const GlobalStyle = createGlobalStyle`
         cursor: not-allowed;
         opacity: 0.6;
     }
-`;
+`
