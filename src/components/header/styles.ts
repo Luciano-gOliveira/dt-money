@@ -10,7 +10,7 @@ export const Content = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 2rem 2rem 8rem;
+    padding: 2rem 0 8rem;
 
     button{
         border: none;
